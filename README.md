@@ -14,9 +14,8 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JongbinWoo&show_icons=true&theme=dark&locale=en&layout=compact" alt="JongbinWoo" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JongbinWoo&show_icons=true&theme=dark&count_private=true&include_all_commits=true&locale=en" alt="JongbinWoo" align="center"/>
 </p>
-
 <!--
 **JongbinWoo/JongbinWoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
