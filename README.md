@@ -1,11 +1,16 @@
 ### Hi there 👋
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center"> </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a>
 </p>
 
-
+<br><br>
+<h3 align="center"> 🍒 Me 🍒 </h3>
+<p align="center">
+  <a href="https://jongbinwoo.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-CC0000?style=flat-square&logo=Vimeo&logoColor=white&link=https://jongbinwoo.github.io/"/></a>
+</p>
+<br>
 
 
 <!--
