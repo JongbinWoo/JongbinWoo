@@ -5,12 +5,14 @@
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a>
 </p>
 
-<br><br>
+<br>
+
 <h3 align="center"> Blog </h3>
 <p align="center">
   <a href="https://jongbinwoo.github.io/"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=Vimeo&logoColor=white&link=https://jongbinwoo.github.io/"/></a>
 </p>
 <br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JongbinWoo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
