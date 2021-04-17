@@ -12,8 +12,10 @@
   <a href="https://jongbinwoo.github.io/"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=Vimeo&logoColor=white&link=https://jongbinwoo.github.io/"/></a>
 </p>
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JongbinWoo)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JongbinWoo&show_icons=true&theme=dark&locale=en&layout=compact" alt="JongbinWoo" align="center"/>
+</p>
 
 <!--
 **JongbinWoo/JongbinWoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
