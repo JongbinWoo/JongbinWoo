@@ -4,17 +4,14 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a>
 </p>
-
 <br>
-
 <h3 align="center"> Blog </h3>
 <p align="center">
   <a href="https://jongbinwoo.github.io/"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=Vimeo&logoColor=white&link=https://jongbinwoo.github.io/"/></a>
 </p>
 <br>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JongbinWoo&show_icons=true&theme=dark&count_private=true&include_all_commits=true&locale=en" alt="JongbinWoo" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JongbinWoo&show_icons=true&theme=prussian&count_private=true&include_all_commits=true&locale=en&show_icons=true" alt="JongbinWoo" align="center"/>
 </p>
 <!--
 **JongbinWoo/JongbinWoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
