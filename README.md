@@ -10,7 +10,7 @@
 <br>
 <h3 align="center"> Blog </h3>
 <p align="center">
-  <a href="https://jongbinwoo.github.io/"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=Vimeo&logoColor=white&link=https://jongbinwoo.github.io/"/></a>
+  <a href="https://jblog.oopy.io/"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=Vimeo&logoColor=white&link=https://jongbinwoo.github.io/"/></a>
 </p>
 <br>
 <p align="center">
