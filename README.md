@@ -6,10 +6,6 @@
   <a href="https://pytorchlightning.ai/"><img alt="Lightning" src="https://img.shields.io/badge/-Lightning-792ee5?style=for-the-badge"></a>
 </p>
 <br>
-<h3 align="center"> Blog </h3>
-<p align="center">
-  <a href="https://jblog.oopy.io/"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=Vimeo&logoColor=white&link=https://jongbinwoo.github.io/"/></a>
-</p>
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JongbinWoo&show_icons=true&theme=prussian&count_private=true&include_all_commits=true&locale=en&show_icons=true" alt="JongbinWoo" align="center"/>
